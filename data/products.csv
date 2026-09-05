@@ -1,0 +1,31 @@
+product_id,product_name,category,price
+P001,Laptop,Electronics,55000
+P002,Wireless Mouse,Electronics,1200
+P003,Keyboard,Electronics,1800
+P004,Headphones,Electronics,2500
+P005,Smartphone,Electronics,28000
+P006,Tablet,Electronics,22000
+P007,Smart Watch,Electronics,6500
+P008,Bluetooth Speaker,Electronics,3500
+P009,USB Cable,Accessories,500
+P010,Power Bank,Accessories,1800
+P011,Backpack,Fashion,2200
+P012,Travel Bag,Fashion,3500
+P013,Sports Shoes,Fashion,4200
+P014,Casual Shoes,Fashion,3200
+P015,T-Shirt,Fashion,900
+P016,Jeans,Fashion,1800
+P017,Jacket,Fashion,3500
+P018,Cap,Fashion,600
+P019,Coffee Maker,Home,4500
+P020,Electric Kettle,Home,2200
+P021,Mixer Grinder,Home,5500
+P022,Air Fryer,Home,6500
+P023,Water Bottle,Home,800
+P024,Lunch Box,Home,700
+P025,Notebook,Stationery,250
+P026,Pen Set,Stationery,180
+P027,Desk Organizer,Stationery,450
+P028,Calculator,Stationery,550
+P029,Sticky Notes,Stationery,120
+P030,File Folder,Stationery,150
